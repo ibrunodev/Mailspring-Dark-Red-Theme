@@ -1,0 +1,13 @@
+{
+  "name": "dark-red-theme",
+  "title": "Dark Red",
+  "displayName": "Dark Red",
+  "theme": "ui",
+  "version": "0.0.1",
+  "description": "A black and red theme for Mailspring",
+  "license": "MIT",
+  "engines": {
+    "mailspring": "*"
+  }
+}
+
